@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f71efa29ee917442aecc814eac79890, type: 3}
+  m_Name: RedSphere
+  m_EditorClassIdentifier: 
+  _name: RedSphere
+  _object: {fileID: 3306936571053565129, guid: b4abf15abcf7a5a43ab7bc871e0441de, type: 3}
