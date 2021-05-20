@@ -1,12 +1,11 @@
-using System.Collections;
-using System.Collections.Generic;
 using Controller;
+using DefaultNamespace;
 using UnityEngine;
 
-public class GameController : MonoBehaviour
+public sealed class GameController : MonoBehaviour
 {
-    [SerializeField] private ScriptableObject _configure;
-    private Controllers _controllers;
+    [SerializeField] private Configure _configure;
+    private Controllers _controllers = null;
 
     private float _deltaTime;
 

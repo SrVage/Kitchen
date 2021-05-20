@@ -13,8 +13,15 @@ MonoBehaviour:
   m_Name: Configure
   m_EditorClassIdentifier: 
   _blockForOrder:
-  - {fileID: 11400000, guid: 3e5f63c63929d0a4ab863b6dfb53a1b2, type: 2}
-  - {fileID: 11400000, guid: ff1c5e57799fc7245a5c9acafb8280a8, type: 2}
-  - {fileID: 11400000, guid: 49372e95f39b393418784ad1baa18202, type: 2}
-  _tray: {fileID: 2102423087446324405, guid: 11a24fbb2da80ac4ba328097687848b1, type: 3}
+  - {fileID: 2882461449875974559, guid: 049353e750df5094dacc844bcc3fdb94, type: 3}
+  - {fileID: 5526397915132205516, guid: 881fd876958b7e145a0b63b010d5bb47, type: 3}
+  - {fileID: 3306936571053565129, guid: b4abf15abcf7a5a43ab7bc871e0441de, type: 3}
+  _needBlock:
+  - {fileID: 21300000, guid: 3e2e8f3dfe8fae643809ac1544938feb, type: 3}
+  - {fileID: 21300000, guid: 35f926f62047ffa48b585fe9a8de98d5, type: 3}
+  - {fileID: 21300000, guid: 2e95a3c1aa318c64dae4c4ed69b5ab91, type: 3}
+  _tray: {fileID: 5925832427454376809, guid: 11a24fbb2da80ac4ba328097687848b1, type: 3}
+  _customer: {fileID: 1835114072134033948, guid: 5d53c1f297391354fa542172f90c815f, type: 3}
   _pointOfSpawn: {x: -7.8, y: 2.1, z: -3.2}
+  _pointOfCustomer1: {x: -3.06, y: 1.41, z: 9}
+  _pointOfCustomer2: {x: 1.85, y: 1.41, z: 9}
