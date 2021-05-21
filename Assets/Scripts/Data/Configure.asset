@@ -17,11 +17,13 @@ MonoBehaviour:
   - {fileID: 5526397915132205516, guid: 881fd876958b7e145a0b63b010d5bb47, type: 3}
   - {fileID: 3306936571053565129, guid: b4abf15abcf7a5a43ab7bc871e0441de, type: 3}
   _needBlock:
-  - {fileID: 21300000, guid: 3e2e8f3dfe8fae643809ac1544938feb, type: 3}
+  - {fileID: 21300000, guid: f1ae358b302a4a047908aabf7be0ab53, type: 3}
   - {fileID: 21300000, guid: 35f926f62047ffa48b585fe9a8de98d5, type: 3}
   - {fileID: 21300000, guid: 2e95a3c1aa318c64dae4c4ed69b5ab91, type: 3}
   _tray: {fileID: 5925832427454376809, guid: 11a24fbb2da80ac4ba328097687848b1, type: 3}
   _customer: {fileID: 1835114072134033948, guid: 5d53c1f297391354fa542172f90c815f, type: 3}
+  _scoreUp: {fileID: 8300000, guid: 2b7d5dc799b0cf84aa69bae414f6b65c, type: 3}
+  _scoreDown: {fileID: 8300000, guid: 935fd492ba4f47f41b6829d03aad8f47, type: 3}
   _pointOfSpawn: {x: -7.8, y: 2.1, z: -3.2}
   _pointOfCustomer1: {x: -3.06, y: 1.41, z: 9}
   _pointOfCustomer2: {x: 1.85, y: 1.41, z: 9}

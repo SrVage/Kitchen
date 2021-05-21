@@ -12,6 +12,8 @@ public sealed class GameController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Screen.orientation = ScreenOrientation.Landscape;
+        Application.targetFrameRate = 60;
         _controllers = new Controllers();
         new GameInitialization(_controllers, _configure);
         _controllers.Initialize();

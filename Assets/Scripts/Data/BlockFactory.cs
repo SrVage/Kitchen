@@ -4,10 +4,6 @@ namespace DefaultNamespace
 {
     public class BlockFactory
     {
-        public BlockFactory()
-        {
-            
-        }
         public TrayBlock CreateTrayBlock()
         {
             Random rnd = new Random();

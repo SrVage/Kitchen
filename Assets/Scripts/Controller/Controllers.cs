@@ -60,7 +60,6 @@ namespace Controller
             {
                 VARIABLE.EndGame();
             }
-
             _timerController.StopGame -= StopGame;
         }
     }

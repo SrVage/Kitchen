@@ -32,6 +32,8 @@ namespace Controller
             _customer1 = new List<GameObject>();
             _customer2 = new List<GameObject>();
             CreateFirstCustomer();
+            CreateFirstCustomer();
+            CreateSecondCustomer();
             CreateSecondCustomer();
             Move();
         }
